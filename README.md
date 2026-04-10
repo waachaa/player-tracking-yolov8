@@ -6,7 +6,7 @@ Automatic player detection and tracking in sports video using YOLOv8 and ByteTra
 
 ## Demo
 
-https://github.com/user-attachments/assets/your-demo-video-id
+[https://github.com/user-attachments/assets/your-demo-video-id](https://github.com/user-attachments/assets/fb852e58-0870-47ba-b4b0-f6b9ced91f31)
 
 > Replace the link above with your tracked_output.mp4 once uploaded to GitHub.
 
